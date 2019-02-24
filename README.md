@@ -14,4 +14,6 @@ This codes implement a depofacies labeling system, which includes machine learni
 - pandas
 - scipy
 ## How to run your code/app/system
+Our code provides the main functionalites for solving the problem, all you have to do is look at the notebook.
 ## Link to your application
+Nope, just the notebook. A complete application would require more time and more developers (we only have 2)
